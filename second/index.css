@@ -1,0 +1,72 @@
+nav {
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid black;
+    height: 25vh;
+}
+
+.shapes {
+    display: inline-block;
+}
+
+.bar {
+    width: 20px;
+    height: 130px;
+    background-color: purple;
+    margin-top: 40px;
+}
+
+.square {
+    width: 40%;
+    height: 90%;
+    margin-left: 20px;
+    background-color: green;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    background-color: lightblue;
+    border-radius: 100px;
+}
+
+section {
+    border: 2px dotted black;
+    height: 30vh;
+    margin: 10px;
+}
+
+.rectangle {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(247, 247, 193);
+    box-shadow: 3px 3px 3px grey;
+}
+
+footer {
+    margin: auto;
+    height: 30vh;
+    width: 50%;
+    border: 2px solid grey;
+    box-shadow: 1px 1px 1px grey;
+}
+
+h2 {
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    color: purple;
+    margin-left: -75px;
+    margin-top: -25px;
+}
+
+.text-box {
+    position: relative;
+    top: 50%;
+    left: 50%;
+
+}
